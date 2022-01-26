@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ Fun fact: I enjoy reading,learning and going to the gym.
+⚡ Fun fact: I enjoy reading, learning and going to the gym.
 
 💬 Ask me anything, I will be more than happy to connect :D
 
