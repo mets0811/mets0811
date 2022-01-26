@@ -21,7 +21,7 @@
 
 <p align="center">
 <a target="_blank" href="www.linkedin.com/in/melissa-moreno0890">
-<img src="https://img.shields.io/badge/-melissa-moreno0890-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melissa-moreno0890" alt="Linkedin Badge">
+<img src="https://img.shields.io/badge/-melissa-moreno0890-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/melissa-moreno0890" alt="Linkedin Badge">
 </a>
 <a target="_blank" href="mailto:melissa0811@icloud.com">
 <img src="https://img.shields.io/badge/-gmail-blue?&style=for-the-badge&logo=Gmail&logoColor=white&link=maito:melissa0811@icloud.com" alt="Email Badge">
